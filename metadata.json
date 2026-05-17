@@ -1,0 +1,6 @@
+{
+  "name": "張勝評 Andrew的個人網站",
+  "description": "張勝評(Andrew)的個人簡歷與作品集網站，包含打工經驗、作業展示、學歷及專業技能等。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
